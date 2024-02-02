@@ -33,9 +33,13 @@ The Random Quote Generator is a web application that displays random quotes alon
 The app will be accessible at http://localhost:3000.
 
 ## Deployment:
+
   The app is deployed using GitHub Pages. To deploy the app, run:
-  npm run deploy
-  Visit https://your-username.github.io/your-repository to access the deployed app.
+  
+     ```bash
+     npm run deploy
+
+Visit https://github.com/whoisabd/Random-Quote-Generator to access the deployed app.
 
 ## Technologies Used:
   - React
@@ -44,5 +48,5 @@ The app will be accessible at http://localhost:3000.
   - CSS3
 
 ## Credits:
-  - Quotes sourced from various authors.
+  - Myself
   - Twitter logo sourced from Twitter Brand Resources (https://about.x.com/en_us/company/brand-resources.html).
