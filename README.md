@@ -17,4 +17,4 @@ The Random Quote Generator is a web application that displays random quotes alon
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/whoisabd/Random-Quote-Generator
