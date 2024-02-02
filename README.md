@@ -17,7 +17,7 @@ The Random Quote Generator is a web application that displays random quotes alon
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/whoisabd/Random-Quote-Generator
+   git clone https://github.com/whoisabd/Random-Quote-Generator.git
 
 2. Install dependencies:
    
@@ -39,7 +39,7 @@ The app will be accessible at http://localhost:3000.
      ```bash
      npm run deploy
 
-Visit https://github.com/whoisabd/Random-Quote-Generator to access the deployed app.
+Visit https://github.com/whoisabd/Random-Quote-Generator.git to access the deployed app.
 
 ## Technologies Used:
   - React
