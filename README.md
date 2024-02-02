@@ -38,7 +38,7 @@ The app will be accessible at http://localhost:3000.
   
      npm run deploy
 
-Visit https://github.com/whoisabd/Random-Quote-Generator.git to access the deployed app.
+Visit https://whoisabd.github.io/Random-Quote-Generator to access the deployed app.
 
 ## Technologies Used:
   - React
