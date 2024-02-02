@@ -11,3 +11,10 @@ The Random Quote Generator is a web application that displays random quotes alon
 - Display random quotes and their authors.
 - Change the color scheme with each new quote.
 - Share quotes on Twitter.
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
