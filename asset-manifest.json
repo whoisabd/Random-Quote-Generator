@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/whoisabd/Random-Quote-Generator.git/static/css/main.46606416.css",
+    "main.js": "/whoisabd/Random-Quote-Generator.git/static/js/main.89a41ab5.js",
+    "static/js/592.7f72a991.chunk.js": "/whoisabd/Random-Quote-Generator.git/static/js/592.7f72a991.chunk.js",
+    "static/media/x-logo.avif": "/whoisabd/Random-Quote-Generator.git/static/media/x-logo.68ef6e858dc6dcbc4a8a.avif",
+    "index.html": "/whoisabd/Random-Quote-Generator.git/index.html",
+    "main.46606416.css.map": "/whoisabd/Random-Quote-Generator.git/static/css/main.46606416.css.map",
+    "main.89a41ab5.js.map": "/whoisabd/Random-Quote-Generator.git/static/js/main.89a41ab5.js.map",
+    "592.7f72a991.chunk.js.map": "/whoisabd/Random-Quote-Generator.git/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46606416.css",
+    "static/js/main.89a41ab5.js"
+  ]
+}
