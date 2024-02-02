@@ -36,7 +36,6 @@ The app will be accessible at http://localhost:3000.
 
   The app is deployed using GitHub Pages. To deploy the app, run:
   
-     ```bash
      npm run deploy
 
 Visit https://github.com/whoisabd/Random-Quote-Generator.git to access the deployed app.
