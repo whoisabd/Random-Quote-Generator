@@ -22,7 +22,7 @@ The Random Quote Generator is a web application that displays random quotes alon
 2. Install dependencies:
    
     ```bash
-     cd your-repository
+     cd random-quote-generator
      npm install
 
 3. Run the app locally:
@@ -41,11 +41,18 @@ The app will be accessible at http://localhost:3000.
 Visit https://whoisabd.github.io/Random-Quote-Generator to access the deployed app.
 
 ## Technologies Used:
+
   - React
   - JavaScript (ES6+)
   - HTML5
   - CSS3
 
 ## Credits:
+
   - Myself
+  - This project was bootstrapped with Create React App.
   - Twitter logo sourced from Twitter Brand Resources (https://about.x.com/en_us/company/brand-resources.html).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](URL) file for details.
