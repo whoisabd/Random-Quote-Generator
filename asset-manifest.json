@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Random-Quote-Generator/static/css/main.46606416.css",
+    "main.css": "/Random-Quote-Generator/static/css/main.b9b8c2a1.css",
     "main.js": "/Random-Quote-Generator/static/js/main.ca3d8440.js",
     "static/js/592.7f72a991.chunk.js": "/Random-Quote-Generator/static/js/592.7f72a991.chunk.js",
     "static/media/x-logo.avif": "/Random-Quote-Generator/static/media/x-logo.68ef6e858dc6dcbc4a8a.avif",
     "index.html": "/Random-Quote-Generator/index.html",
-    "main.46606416.css.map": "/Random-Quote-Generator/static/css/main.46606416.css.map",
+    "main.b9b8c2a1.css.map": "/Random-Quote-Generator/static/css/main.b9b8c2a1.css.map",
     "main.ca3d8440.js.map": "/Random-Quote-Generator/static/js/main.ca3d8440.js.map",
     "592.7f72a991.chunk.js.map": "/Random-Quote-Generator/static/js/592.7f72a991.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.46606416.css",
+    "static/css/main.b9b8c2a1.css",
     "static/js/main.ca3d8440.js"
   ]
 }
