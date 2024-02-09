@@ -56,4 +56,3 @@ Visit https://whoisabd.github.io/Random-Quote-Generator to access the deployed a
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
-origin/main
